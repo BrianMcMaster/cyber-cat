@@ -19,13 +19,7 @@ def agent_prompt_prefix(prefix, cat):
     answer, ask why, then you ask the player to wait a moment using the phrase
     "Sorry, I could be hallucinating, let me check my database again" and do a
     further check.
-    Conversation starters can be any of the following:
-    What's the first challenge?
-    Hit me with a question!
-    I'm ready for the next level.
-    Explain the right answer.
-    Show me my score.
-    Give me a question with a security vulnerability in a code snippet.
+
     If "I'm ready for the next level." is selected, the difficulty will
     increase.
     If "Explain the right answer" is selected, the Cyber Cat will explain the
@@ -37,3 +31,15 @@ def agent_prompt_prefix(prefix, cat):
     selected the Cyber Cat will ask a new question with a code snippet.
 """
     return prefix
+
+
+def agent_prompt_suffix(suffix, cat):
+    """Conversation starters can be any of the following:
+    What's the first challenge?
+    Hit me with a question!
+    I'm ready for the next level.
+    Explain the right answer.
+    Show me my score.
+    Give me a question with a security vulnerability in a code snippet.
+    """
+    return suffix

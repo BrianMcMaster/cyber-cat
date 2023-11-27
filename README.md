@@ -6,7 +6,7 @@ The Cyber cat is multi-choice cyber security learning game.
 
 Enable it and have fun!
 
-![cyber-cat](https://github.com/BrianMcMaster/cyber-cat/blob/main/cyber-cat.png?raw=true)
+![cyber-cat](https://raw.githubusercontent.com/BrianMcMaster/cyber-cat/main/cyber-cat.png)
 
 
 ## Notes
