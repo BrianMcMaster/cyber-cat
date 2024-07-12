@@ -8,7 +8,6 @@ Enable it and have fun!
 
 ![cyber-cat](https://raw.githubusercontent.com/BrianMcMaster/cyber-cat/main/cyber-cat.png)
 
-
 ## Notes
 
 > The plugin is tested only with ChatGPT LLM.
